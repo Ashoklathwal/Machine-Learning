@@ -1,0 +1,44 @@
+1. Which of the following statements are true? (Check all that apply)
+Having good non-linear features can allow us to learn very accurate linear classifiers.
+
+2. A simple linear classifier can represent which of the following functions? (Check all that apply)
+A, B, C
+
+3. Which of the the following neural networks can represent the following function? Select all that apply.
+D
+
+4. Which of the following statements is true? (Check all that apply)
+Features in computer vision act like local detectors.
+By learning non-linear features, neural networks have allowed us to automatically learn detectors for computer vision.
+
+5. If you have lots of images of different types of plankton labeled with their species name, and lots of computational
+resources, what would you expect to perform better predictions:
+a deep neural network trained on this data.
+              
+6. If you have a few images of different types of plankton labeled with their species name, what would you expect to 
+perform better predictions:
+a simple classifier trained on this data, using deep features as input, which were trained using ImageNet data.
+1. What"s the least common category in the training data?
+bird
+
+2. Of the images below, which is the nearest "cat" labeled image in the training data to the the first image in the test data 
+(image_test[0:1])?
+F
+
+3. Of the images below, which is the nearest "dog" labeled image in the training data to the the first image in the test data 
+(image_test[0:1])?
+D
+
+4. For the first image in the test data, in what range is the mean distance between this image and its 5 nearest neighbors that
+were labeled "cat" in the training data?
+35 to 37
+
+5. For the first image in the test data, in what range is the mean distance between this image and its 5 nearest neighbors that
+were labeled "dog" in the training data?
+37 to 39
+
+6. On average, is the first image in the test data closer to its 5 nearest neighbors in the "cat" data or in the "dog" data?
+cat
+
+7. In what range is the accuracy of the 1-nearest neighbor classifier at classifying "dog" images from the test set?
+67.8%
