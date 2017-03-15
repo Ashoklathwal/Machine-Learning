@@ -12,5 +12,5 @@
 
 ## Machine Learning Cheat Sheets
 
-* [**full-cheatsheet-machine-learning-algorithms using scikit-learn library**](https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
+* [**full-cheatsheet-machine-learning-algorithms using scikit-learn library**](MLalgorithmsUsingScikitLearnAlgorithm.pdf)
 * [**Machine Learning Map**](ml_map.png)
