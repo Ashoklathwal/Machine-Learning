@@ -14,3 +14,7 @@
 
 * [**full-cheatsheet-machine-learning-algorithms using scikit-learn library**](MLalgorithmsUsingScikitLearnAlgorithm.pdf)
 * [**Machine Learning Map**](ml_map.png)
+
+## Machine Learning Codes
+
+* [**Multiple Linear Regression: Predicting House Prices**](multipleLinearRegrassion.py)
