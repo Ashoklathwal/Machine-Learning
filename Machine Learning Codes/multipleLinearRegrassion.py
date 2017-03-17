@@ -1,3 +1,5 @@
+# http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+
 from sklearn.linear_model import LinearRegression
 import numpy as np
 
