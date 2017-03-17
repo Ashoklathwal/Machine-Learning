@@ -12,7 +12,8 @@ for i in range(n):
     inp = list(map(float, input().split(' ')))
     x_matrix.append(inp[0:f])
     y_matrix.append(inp[f])
-polyFeatures = preprocessing.PolynomialFeatures()
+# http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html    
+polyFeatures = preprocessing.PolynomialFeatures(3)
 x_matrix=polyFeatures.fit_transform(x_matrix)    
 lin = LinearRegression()
 lin.fit(x_matrix, y_matrix)
