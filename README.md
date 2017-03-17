@@ -17,10 +17,8 @@
 
 ## Machine Learning Codes
 
-### Regression
 
-* Multiple Linear Regression: Predicting House Prices [**Question**](https://www.hackerrank.com/challenges/predicting-house-prices) [**Solution**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/multipleLinearRegrassion.py)
-* Polynomial Regression: Office Prices [**Question**](https://www.hackerrank.com/challenges/predicting-office-space-price) [**Solution**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/polynomialRegression.py)
 
-### Classification
-### Clustering
+* Multiple Linear Regression: Predicting House Prices [**Question**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/predicting-house-prices.pdf) [**Solution**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/multipleLinearRegrassion.py)
+* Polynomial Regression: Office Prices [**Question**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/predicting-office-space-price.pdf) [**Solution**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/polynomialRegression.py)
+
