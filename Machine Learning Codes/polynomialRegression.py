@@ -1,3 +1,5 @@
+# http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html
+
 from sklearn.linear_model import LinearRegression
 from sklearn import preprocessing
 import numpy as np
