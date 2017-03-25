@@ -30,4 +30,4 @@
 
 * Multiple Linear Regression: Predicting House Prices [**Question**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/predicting-house-prices.pdf) [**Solution**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/multipleLinearRegrassion.py)
 * Polynomial Regression: Office Prices [**Question**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/predicting-office-space-price.pdf) [**Solution**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/polynomialRegression.py)
-
+* FeedForword Neural Network [**Solution**](feedForwordNN.ipynb)
