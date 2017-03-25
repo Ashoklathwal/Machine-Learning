@@ -17,7 +17,7 @@
 
 ## Machine Learning Interview Question
 
-* [**17-data-science-interview-questions-answers.html**](http://www.kdnuggets.com/2017/02/17-data-science-interview-questions-answers.html)
+* [**17-data-science-interview-questions-answers**](http://www.kdnuggets.com/2017/02/17-data-science-interview-questions-answers.html)
  * [**40 Interview Questions asked at Startups in Machine Learning / Data Science**](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
  * [**21 Must-Know Data Science Interview Questions and Answers**](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html/2)
  * [**Top 50 Machine learning Interview questions & Answers**](http://career.guru99.com/top-50-interview-questions-on-machine-learning/)
