@@ -31,4 +31,5 @@
 * Multiple Linear Regression: Predicting House Prices [**Question**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/predicting-house-prices.pdf) [**Solution**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/multipleLinearRegrassion.py)
 * Polynomial Regression: Office Prices [**Question**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/predicting-office-space-price.pdf) [**Solution**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/polynomialRegression.py)
 * Document Classification [**Question**](document-classification.pdf) [**Solution**](document_classification.py) [**Training_data**](train_data.txt)
+* Quora Answer Classifier [**Question**](quora-answer-classifier.pdf) [**Solution**](quora_answer_classifier.py)
 * FeedForword Neural Network [**Solution**](feedForwordNN.ipynb)
