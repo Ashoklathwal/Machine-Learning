@@ -14,7 +14,8 @@
 
 * [**full-cheatsheet-machine-learning-algorithms using scikit-learn library**](MLalgorithmsUsingScikitLearnAlgorithm.pdf)
 * [**Machine Learning Map**](ml_map.png)
-
+## NLP cheat sheet
+* [**python nlp cheatsheet nltk scikit-learn**](http://billchambers.me/tutorials/2015/01/14/python-nlp-cheatsheet-nltk-scikit-learn.html)
 ## Machine Learning Interview Question
 * [**100-data-science-interview-questions-and-answers-general-for-2017**](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2017/184)
 * [**17-data-science-interview-questions-answers**](http://www.kdnuggets.com/2017/02/17-data-science-interview-questions-answers.html)
