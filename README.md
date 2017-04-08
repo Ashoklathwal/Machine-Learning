@@ -33,4 +33,5 @@
 * Polynomial Regression: Office Prices [**Question**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/predicting-office-space-price.pdf) [**Solution**](https://github.com/Ashoklathwal/Machine-Learning/blob/master/Machine%20Learning%20Codes/polynomialRegression.py)
 * Document Classification [**Question**](document-classification.pdf) [**Solution**](document_classification.py) [**Training_data**](train_data.txt)
 * Quora Answer Classifier [**Question**](quora-answer-classifier.pdf) [**Solution**](quora_answer_classifier.py)
+* [**Tagging raw job descriptions**](tagging-raw-job-descriptions)
 * FeedForword Neural Network [**Solution**](feedForwordNN.ipynb)
