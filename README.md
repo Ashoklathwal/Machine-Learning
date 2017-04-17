@@ -1,5 +1,9 @@
 # Machine-Learning
 
+## Important Tutorials
+
+* [**Approaching almost any machine learning problem**](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
+
 ## Python Cheat sheets
 
 * [**Scikit-learn**](Scikit-Learn-cheat_sheets.pdf)
