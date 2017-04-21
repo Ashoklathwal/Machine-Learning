@@ -30,6 +30,7 @@
  * [**21 Must-Know Data Science Interview Questions and Answers**](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html/2)
  * [**Top 50 Machine learning Interview questions & Answers**](http://career.guru99.com/top-50-interview-questions-on-machine-learning/)
  * [**Collection of Machine Learning Interview Questions**](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
+ * [**45 questions to test Data Scientists on Tree Based Algorithms (Decision tree, Random Forests, XGBoost)**](https://www.analyticsvidhya.com/blog/2016/12/detailed-solutions-for-skilltest-tree-based-algorithms/)
  
  
 ## Machine Learning Codes
