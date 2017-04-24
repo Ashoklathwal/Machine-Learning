@@ -5,6 +5,7 @@
 * [**Approaching almost any machine learning problem**](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
 * [**Complete tutorial tree based modeling scratch in python**](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 * [**Quick introduction boosting algorithms machine learning**](https://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/)
+* [**Introduction to Reinforcement Learning implementation**](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
 
 ## Python Cheat sheets
 
