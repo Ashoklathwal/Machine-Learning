@@ -6,6 +6,7 @@
 * [**Complete tutorial tree based modeling scratch in python**](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 * [**Quick introduction boosting algorithms machine learning**](https://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/)
 * [**Introduction to Reinforcement Learning implementation**](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
+* [**40 Questions to test a Data Scientist on Clustering Techniques**](https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/)
 
 ## Python Cheat sheets
 
