@@ -6,7 +6,7 @@
 * [**Complete tutorial tree based modeling scratch in python**](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 * [**Quick introduction boosting algorithms machine learning**](https://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/)
 * [**Introduction to Reinforcement Learning implementation**](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
-* [**40 Questions to test a Data Scientist on Clustering Techniques**](https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/)
+
 
 ## Python Cheat sheets
 
@@ -33,7 +33,9 @@
  * [**Top 50 Machine learning Interview questions & Answers**](http://career.guru99.com/top-50-interview-questions-on-machine-learning/)
  * [**Collection of Machine Learning Interview Questions**](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
  * [**45 questions to test Data Scientists on Tree Based Algorithms (Decision tree, Random Forests, XGBoost)**](https://www.analyticsvidhya.com/blog/2016/12/detailed-solutions-for-skilltest-tree-based-algorithms/)
- 
+ * [**40 Questions to test a Data Scientist on Clustering Techniques**](https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/)
+ * [**45 questions to test a Data Scientist on Regression **](https://www.analyticsvidhya.com/blog/2016/12/45-questions-to-test-a-data-scientist-on-regression-skill-test-regression-solution/)
+ * [**40 Questions to ask a Data Scientist on Ensemble Modeling Techniques **](https://www.analyticsvidhya.com/blog/2017/02/40-questions-to-ask-a-data-scientist-on-ensemble-modeling-techniques-skilltest-solution/)
  
 ## Machine Learning Codes
 
