@@ -35,6 +35,7 @@
  * [**45 questions to test a Data Scientist on Regression **](https://www.analyticsvidhya.com/blog/2016/12/45-questions-to-test-a-data-scientist-on-regression-skill-test-regression-solution/)
  * [**40 Questions to ask a Data Scientist on Ensemble Modeling Techniques **](https://www.analyticsvidhya.com/blog/2017/02/40-questions-to-ask-a-data-scientist-on-ensemble-modeling-techniques-skilltest-solution/)
  * [**solution-for-skilltest-machine-learning**](https://www.analyticsvidhya.com/blog/2016/11/solution-for-skilltest-machine-learning-revealed/)
+ * [**40-questions-test-data-scientist-machine-learning-solution-skillpower-machine-learning**](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-machine-learning-solution-skillpower-machine-learning-datafest-2017/)
  
 ## Machine Learning Codes
 
