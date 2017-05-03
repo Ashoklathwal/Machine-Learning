@@ -36,6 +36,7 @@
  * [**40 Questions to ask a Data Scientist on Ensemble Modeling Techniques **](https://www.analyticsvidhya.com/blog/2017/02/40-questions-to-ask-a-data-scientist-on-ensemble-modeling-techniques-skilltest-solution/)
  * [**solution-for-skilltest-machine-learning**](https://www.analyticsvidhya.com/blog/2016/11/solution-for-skilltest-machine-learning-revealed/)
  * [**40-questions-test-data-scientist-machine-learning-solution-skillpower-machine-learning**](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-machine-learning-solution-skillpower-machine-learning-datafest-2017/)
+ * [**41 Essential Machine Learning Interview Questions (with answers)**](https://www.springboard.com/blog/machine-learning-interview-questions/?utm_content=bufferc67c4&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
  
 ## Machine Learning Codes
 
