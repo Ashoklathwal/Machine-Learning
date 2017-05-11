@@ -6,6 +6,7 @@
 * [**Complete tutorial tree based modeling scratch in python**](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 * [**Quick introduction boosting algorithms machine learning**](https://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/)
 * [**Introduction to Reinforcement Learning implementation**](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
+* [**Working with text data**](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
 
 
 ## Python Cheat sheets
