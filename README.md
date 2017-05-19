@@ -26,6 +26,7 @@
 * [**Machine Learning Map**](ml_map.png)
 ## Machine Learning Interview Question
 * [**100-data-science-interview-questions-and-answers-general-for-2017**](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2017/184)
+* [**101 Data Science Interview Questions & Detailed Answers**](http://rpubs.com/JDAHAN/172473)
 * [**17-data-science-interview-questions-answers**](http://www.kdnuggets.com/2017/02/17-data-science-interview-questions-answers.html)
  * [**40 Interview Questions asked at Startups in Machine Learning / Data Science**](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
  * [**21 Must-Know Data Science Interview Questions and Answers**](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html/2)
