@@ -1,5 +1,12 @@
 # Machine-Learning
 
+## Machine Learning Case Study
+
+* https://www.analyticsvidhya.com/blog/2014/02/interesting-analytics-case-study/
+* https://www.quora.com/Where-can-I-find-full-data-science-case-studies
+* https://www.quora.com/How-do-I-prepare-for-analytics-data-science-case-study-interview
+* https://www.packtpub.com/mapt/book/big-data-and-business-intelligence/9781785887918/13/ch13lvl1sec82/case-study-2--why-do-some-people-cheat-on-their-spouses%253f
+
 ## Important Tutorials
 
 * [**Approaching almost any machine learning problem**](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
